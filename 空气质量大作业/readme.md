@@ -1,11 +1,15 @@
-#####ÎÄ¼şËµÃ÷#####
+#æ–‡ä»¶è¯´æ˜
 
-###ĞèÒªsk-learn¡¢pytorch¡¢keras¡¢pandas¡¢numpyµÈ¿â###
+###éœ€è¦sk-learnã€pytorchã€kerasã€pandasã€numpyç­‰åº“###
 
-#selenium.py                      ÅÀ³æ³ÌĞò£¬ĞèÒª½âÑ¹phantomjs ÖÁÄ¿Â¼£¬²¢ĞŞ¸Ä³ÌĞòÖĞÏàÓ¦µØÖ·
-#AE_model.py                    AEÄ£ĞÍ³ÌĞò
-#read_airdata_cluster.py    µÚ¶şÌâÖ÷³ÌĞò£¬»áµ÷ÓÃAEÄ£ĞÍ£¬Ö±½ÓÔËĞĞ¼´¿É
-#finalAQI4.0.py                  Ô¤²â·½°¸Ò» 
-#finalAQI4.0_version2.py   Ô¤²â·½°¸¶ş
+selenium.py                      çˆ¬è™«ç¨‹åºï¼Œéœ€è¦è§£å‹phantomjs è‡³ç›®å½•ï¼Œå¹¶ä¿®æ”¹ç¨‹åºä¸­ç›¸åº”åœ°å€
 
-#~.csv                                Êı¾İ
+AE_model.py                      AEæ¨¡å‹ç¨‹åº
+
+read_airdata_cluster.py          ç¬¬äºŒé¢˜ä¸»ç¨‹åºï¼Œä¼šè°ƒç”¨AEæ¨¡å‹ï¼Œç›´æ¥è¿è¡Œå³å¯
+
+finalAQI4.0.py                   é¢„æµ‹æ–¹æ¡ˆä¸€ 
+
+finalAQI4.0_version2.py          é¢„æµ‹æ–¹æ¡ˆäºŒ
+
+~.csv                            æ•°æ®
